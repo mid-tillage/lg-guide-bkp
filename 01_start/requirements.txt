@@ -1,0 +1,11 @@
+beautifulsoup4==4.12.3
+faiss-cpu==1.8.0
+fastapi==0.111.0
+fastapi-cli==0.0.3
+langchain==0.1.17
+langchain-core==0.1.52
+langchain-openai==0.1.6
+langchain-community==0.0.37
+langchainhub==0.1.15
+langserve==0.1.1
+sse-starlette==1.8.2
