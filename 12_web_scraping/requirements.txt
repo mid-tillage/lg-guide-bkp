@@ -1,0 +1,31 @@
+# langchain==0.1.19
+# langchain-chroma==0.1.0
+# langchain-community==0.0.38
+# langchain-openai==0.1.6
+
+langchain==0.1.19
+langchain-chroma==0.1.0
+langchain-community==0.0.38
+langchain-core==0.1.52
+langchain-openai==0.1.6
+langchain-text-splitters==0.0.1
+langchainhub==0.1.15
+youtube-transcript-api==0.6.2
+pytube==15.0.0
+python-dotenv==1.0.1
+asyncio==3.4.3
+
+streamlit==1.25.0
+langchain==0.0.244
+chromadb==0.4.3
+openai==0.27.8
+html2text==2020.1.16
+google-api-core==2.11.1
+google-api-python-client==2.95.0
+google-auth==2.22.0
+google-auth-httplib2==0.1.0
+googleapis-common-protos==1.59.1
+tiktoken==0.4.0
+faiss-cpu==1.7.4
+
+apify-client==1.6.4
